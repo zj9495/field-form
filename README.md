@@ -179,6 +179,7 @@ class Demo extends React.Component {
 | validator       | ([rule](#rule), value, callback: (error?: string) => void, [form](#useform)) => Promise \| void |
 | whitespace      | boolean                                                                                         |
 | validateTrigger | string \| string[]                                                                              |
+| defaultField    | [rule](#rule)                                                                              |
 
 #### validator
 
